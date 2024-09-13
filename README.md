@@ -11,3 +11,16 @@ Conectar-se com outros profissionais que estão na mesma jornada pode proporcion
 Avante! 🚀 
 
 # JornadanaNuvem #aws #cloud #certification
+
+
+A Journey in the Cloud ☁
+
+⭐ The AWS Cloud Practitioner certification is, without a doubt, the gateway to the world of cloud computing. It opens the doors to a vast horizon of opportunities.
+
+It is important to continue studying to keep up with the developments and challenges of the market. ⭐
+
+The Journey taught me one of the greatest lessons about the importance of community and networking.
+
+Connecting with other professionals who are on the same journey can provide support, knowledge sharing, and motivation.
+
+Go ahead! 🚀 
