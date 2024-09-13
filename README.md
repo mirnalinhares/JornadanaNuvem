@@ -1,6 +1,7 @@
 ☁ Uma Jornada na Nuvem ☁ 
 
-⭐ A certificação AWS Cloud Practitioner serve como um trampolim fundamental para o reino da computação em nuvem. Ela fornece uma sólida compreensão dos serviços, conceitos e melhores práticas da AWS, abrindo portas para uma ampla gama de oportunidades de carreira.
+⭐ A certificação AWS Cloud Practitioner é, sem dúvida, a porta de entrada para o mundo da computação em nuvem. Ela nos abre as portas para um vasto horizonte de oportunidades. 
+É importante continuar os estudos para acompanhar as evoluções e desafios do mercado.
 
 Para se manter atualizado com o cenário em rápida evolução da tecnologia de nuvem, aprendizado e desenvolvimento contínuos são essenciais. ⭐
 
